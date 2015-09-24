@@ -1,4 +1,4 @@
-# Spark Summit Examples
+# Cassandra Spark Demo
 
 ## Retrieve Sample Data
 ```bash
