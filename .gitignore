@@ -1,0 +1,17 @@
+*.iml
+
+.idea/
+
+*.ipr
+*.iws
+
+solr/
+
+cassandra_import_example/data/*.txt
+
+cassandra_import_example/target
+solr_import_example/target
+solr_import_example/project/target
+solr_import_example/project/project/target
+
+solr_import_example/lib/dse-4.7.0.jar
